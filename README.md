@@ -17,3 +17,5 @@ Then at the end there's an intelligent guy which uses all of the above technique
 Go give it a try yourself, I can guarantee that you will enjoy it. 
 
 This is my first-semester project in the Programming Fundamentals course in a 4 years degree program  of BSCS. 
+
+Btw I have named it Brute as it uses a brute force approach in detecting plagiarism, you'll find out more as you explore...
